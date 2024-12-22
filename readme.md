@@ -38,13 +38,16 @@ streamlit run app.py
 
 ## 사용법
 ![image](https://github.com/user-attachments/assets/a343babe-170a-47a4-b30f-e758a538a061)
+
 1. 왼쪽 슬라이더와 드롭다운 메뉴에서 집값 예측에 필요한 데이터를 입력합니다.
    - 예시: 전용면적, 층수, 건축년도, 지역 등.
 
 ![image](https://github.com/user-attachments/assets/27925f7a-fe23-4af0-9a78-447d604a40b9)
+
 2. 원하는 날짜를 선택한 후 "예측하기" 버튼을 클릭합니다.
 
 ![image](https://github.com/user-attachments/assets/c15d85d2-a89a-4814-83d2-8690994f5cfe)
+
 3. 화면에 예측된 집값이 표시되며, 지도에서 선택한 지역을 확인할 수 있습니다.
 
 ---
