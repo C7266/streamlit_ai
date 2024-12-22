@@ -69,10 +69,9 @@ streamlit run app.py
 
 ---
 
-## 예시 화면
-![image](https://github.com/user-attachments/assets/7f6697ac-19ff-425c-a66d-dd1704bb7070)
-![image](https://github.com/user-attachments/assets/b7eeb3a3-d604-4085-8087-b9cc4b1050e5)
-![image](https://github.com/user-attachments/assets/d5fa8fc8-aee1-4427-9be6-6d03d0f68127)
+## 결과 화면
+
+![image](https://github.com/user-attachments/assets/24e05c34-fb8d-43f0-bccc-90539350d1b8)
 
 
 ---
