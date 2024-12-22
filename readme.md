@@ -30,6 +30,7 @@ pip install streamlit numpy pandas tensorflow matplotlib scikit-learn
 streamlit run app.py
 ```
 컴퓨터의 브라우저에서 [http://localhost:8501](http://localhost:8501)을 열어서 통신.
++ streamlit cloud app 서비스를 통해 배포 [https://daeguhouseprice.streamlit.app/]
 
 ---
 
